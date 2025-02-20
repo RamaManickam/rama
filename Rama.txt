@@ -1,3 +1,4 @@
 Name : Rama Manickam
+DOB : 15-02-1990
 Address : Siem Reap
 Phone : 015556869
